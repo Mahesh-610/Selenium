@@ -116,7 +116,6 @@
 			 <include name="tests/TestApplication.class" /-->
 			  <include name="tests/MySuiteRunner.class" />
 
-
 			        
 			         
 			    </fileset>  
