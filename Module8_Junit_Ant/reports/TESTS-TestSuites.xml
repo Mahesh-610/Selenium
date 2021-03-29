@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="2" hostname="DESKTOP-CE8GK2O" id="0" name="MySuiteRunner" package="tests" skipped="0" tests="3" time="0.095" timestamp="2021-03-29T09:07:18">
+      <properties>
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="env.=D:" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_281\jre" />
+
+          <property name="env.OneDriveConsumer" value="C:\Users\Lenovo\OneDrive" />
+
+          <property name="ws.jars" value="D:\Mahesh\Selenium\Jar file\Junit" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_281\jre\lib\endorsed" />
+
+          <property name="env.USERNAME" value="Lenovo" />
+
+          <property name="env.HUDSON_HOME" value="C:\Users\Lenovo\.jenkins" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="env.COMPUTERNAME" value="DESKTOP-CE8GK2O" />
+
+          <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+
+          <property name="env.NODE_NAME" value="master" />
+
+          <property name="java.version" value="1.8.0_281" />
+
+          <property name="test.dest" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant/build" />
+
+          <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+
+          <property name="env.NODE_LABELS" value="master" />
+
+          <property name="env.JENKINS_SERVER_COOKIE" value="73920c3baf1959bb" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="env.USERPROFILE" value="C:\Users\Lenovo" />
+
+          <property name="ant.project.invoked-targets" value="compile,run" />
+
+          <property name="env.SystemRoot" value="C:\WINDOWS" />
+
+          <property name="user.name" value="Lenovo" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="env.LOCALAPPDATA" value="C:\Users\Lenovo\AppData\Local" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="user.script" value="" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 42 Stepping 7, GenuineIntel" />
+
+          <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_281\bin\java.exe" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="ant.project.default-target" value="usage" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner tests.MySuiteRunner skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant\reports\TEST-tests.MySuiteRunner.xml crashfile=D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant\junitvmwatcher9150371780649768280.properties propsfile=D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant\junit1360538353036805917.properties" />
+
+          <property name="env.RUN_DISPLAY_URL" value="http://localhost:8080/job/FirstProject/2/display/redirect" />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+
+          <property name="env.APPDATA" value="C:\Users\Lenovo\AppData\Roaming" />
+
+          <property name="ant.file" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant\build.xml" />
+
+          <property name="env.BUILD_TAG" value="jenkins-FirstProject-2" />
+
+          <property name="start.time" value="03/29/2021 02:37 PM" />
+
+          <property name="java.io.tmpdir" value="C:\Users\Lenovo\AppData\Local\Temp\" />
+
+          <property name="ant.file.Module8_Junit_Ant" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant\build.xml" />
+
+          <property name="TODAY" value="March 29 2021" />
+
+          <property name="user.language" value="en" />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="ANT" value="D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9/bin/ant.bat" />
+
+          <property name="env.JOB_NAME" value="FirstProject" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.BUILD_DISPLAY_NAME" value="#2" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="env.JOB_DISPLAY_URL" value="http://localhost:8080/job/FirstProject/display/redirect" />
+
+          <property name="env.BUILD_URL" value="http://localhost:8080/job/FirstProject/2/" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+
+          <property name="env.USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-CE8GK2O" />
+
+          <property name="env.RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/FirstProject/2/display/redirect?page=artifacts" />
+
+          <property name="env.WORKSPACE_TMP" value="C:\Users\Lenovo\.jenkins\workspace\FirstProject@tmp" />
+
+          <property name="env.LOGONSERVER" value="\\DESKTOP-CE8GK2O" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="env.HUDSON_SERVER_COOKIE" value="73920c3baf1959bb" />
+
+          <property name="env.PUBLIC" value="C:\Users\Public" />
+
+          <property name="test.src" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant/src" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.10.9 compiled on September 27 2020" />
+
+          <property name="env.USERDOMAIN" value="DESKTOP-CE8GK2O" />
+
+          <property name="env.PROCESSOR_LEVEL" value="6" />
+
+          <property name="env.windir" value="C:\WINDOWS" />
+
+          <property name="env.BUILD_NUMBER" value="2" />
+
+          <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+
+          <property name="os.name" value="Windows 10" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.TMP" value="C:\Users\Lenovo\AppData\Local\Temp" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="env.ProgramData" value="C:\ProgramData" />
+
+          <property name="env.JOB_URL" value="http://localhost:8080/job/FirstProject/" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Mahesh\Selenium\Maven\apache-maven-3.6.3\bin;D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;;." />
+
+          <property name="env.HUDSON_URL" value="http://localhost:8080/" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="env.JENKINS_URL" value="http://localhost:8080/" />
+
+          <property name="basedir" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="ant.home" value="D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9" />
+
+          <property name="env.Path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Mahesh\Selenium\Maven\apache-maven-3.6.3\bin;D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;" />
+
+          <property name="env.JENKINS_HOME" value="C:\Users\Lenovo\.jenkins" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="test.reportsDir" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant\reports" />
+
+          <property name="env.RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/FirstProject/2/display/redirect?page=changes" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\bin" />
+
+          <property name="env.PROCESSOR_REVISION" value="2a07" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.project.name" value="Module8_Junit_Ant" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="env.MAVEN_HOME" value="D:\Mahesh\Selenium\Maven\apache-maven-3.6.3" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_281\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+
+          <property name="os.version" value="10.0" />
+
+          <property name="user.home" value="C:\Users\Lenovo" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="env.DriverData" value="C:\Windows\System32\Drivers\DriverData" />
+
+          <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_281" />
+
+          <property name="env.ProgramW6432" value="C:\Program Files" />
+
+          <property name="user.dir" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant" />
+
+          <property name="test.classpath" value="D:\Mahesh\Selenium\Jar file\Junit\org.hamcrest.core_1.3.0.v20180420-1519.jar:D:\Mahesh\Selenium\Jar file\Junit\org.junit_4.13.0.v20200204-1500.jar" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="env._USE_CLASSPATH" value="no" />
+
+          <property name="env.RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/FirstProject/2/display/redirect?page=tests" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+
+          <property name="java.vm.version" value="25.281-b09" />
+
+          <property name="java.class.path" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant\build;D:\Mahesh\Selenium\Jar file\Junit\org.hamcrest.core_1.3.0.v20180420-1519.jar;D:\Mahesh\Selenium\Jar file\Junit\org.junit_4.13.0.v20200204-1500.jar;D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9\lib\ant-launcher.jar;D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9\lib\ant.jar;D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9\lib\ant-junit.jar;D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9\lib\ant-junit4.jar" />
+
+          <property name="env.HOMEPATH" value="\Users\Lenovo" />
+
+          <property name="DSTAMP" value="20210329" />
+
+          <property name="ant.library.dir" value="D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9\lib" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="env.OneDrive" value="C:\Users\Lenovo\OneDrive" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="env.BUILD_ID" value="2" />
+
+          <property name="ant.core.lib" value="D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9\lib\ant.jar" />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="TSTAMP" value="1437" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="env.ANT_CMD_LINE_ARGS" value=" -file build.xml compile run" />
+
+          <property name="java.runtime.version" value="1.8.0_281-b09" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_281\jre\classes" />
+
+          <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+
+          <property name="env.WORKSPACE" value="C:\Users\Lenovo\.jenkins\workspace\FirstProject" />
+
+          <property name="env.TEMP" value="C:\Users\Lenovo\AppData\Local\Temp" />
+
+          <property name="env.ANT_HOME" value="D:\Mahesh\Selenium\Download Ant\apache-ant-1.10.9" />
+
+          <property name="user.country" value="NZ" />
+
+          <property name="ws.home" value="D:\Mahesh\Selenium\JavaforSelenium\Module8_Junit_Ant" />
+
+          <property name="env.EXECUTOR_NUMBER" value="1" />
+
+          <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+
+          <property name="env.JOB_BASE_NAME" value="FirstProject" />
+
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="ant.file.type.Module8_Junit_Ant" value="file" />
+
+          <property name="env.PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX" />
+
+          <property name="env.HUDSON_COOKIE" value="c4caa79d-3228-47d4-b2e2-a52f80f28ac1" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+      </properties>
+
+      <testcase classname="tests.LoginTest" name="testApp" time="0.018">
+          <failure message="expected:&lt;Hello[]&gt; but was:&lt;Hello[123]&gt;" type="junit.framework.ComparisonFailure">junit.framework.ComparisonFailure: expected:&lt;Hello[]&gt; but was:&lt;Hello[123]&gt;
+	at tests.LoginTest.testApp(LoginTest.java:21)
+</failure>
+
+          <failure message="Link not present" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Link not present
+	at tests.LoginTest.testApp(LoginTest.java:29)
+</failure>
+
+      </testcase>
+
+      <testcase classname="tests.Parameterized_Test" name="checkBalanceTest[0]" time="0.001" />
+
+      <testcase classname="tests.Parameterized_Test" name="checkBalanceTest[1]" time="0.0" />
+
+      <system-out><![CDATA[A
+error
+B
+Ending test
+Executing the test with - HSBC -- 1234
+Executing the test with - City -- 123455
+]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
