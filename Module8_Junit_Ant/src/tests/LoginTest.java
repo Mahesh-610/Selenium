@@ -18,7 +18,7 @@ public class LoginTest {
 		// selenium code login
 		System.out.println("A");
 		try{
-			Assert.assertEquals("Hello", "Hello123");
+			Assert.assertEquals("Hello", "Hello");
 		}catch(Throwable t){
 			// code to report error
 			errCol.addError(t);
