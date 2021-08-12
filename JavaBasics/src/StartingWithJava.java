@@ -8,6 +8,7 @@ public class StartingWithJava {
 		System.out.print("Cursor not moved to next line");
 		System.out.println(1234567890);
 		System.out.println("Line added by Git is removed");
+		System.out.println("One more update to verify pull and fetch difference");
 	}
 
 }
