@@ -9,6 +9,7 @@ public class StartingWithJava {
 		System.out.println(1234567890);
 		System.out.println("Line added by Git is removed");
 		System.out.println("One more update to verify pull and fetch difference");
+		System.out.println("one more update to verify fetch");
 	}
 
 }
