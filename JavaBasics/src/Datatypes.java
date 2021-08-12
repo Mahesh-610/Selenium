@@ -10,7 +10,7 @@ public class Datatypes {
 		System.out.println("Learning Datatypes");
 		
 		int i=100;
-		i=200;
+		i=300;
 		System.out.println(i);
 		
 		String str = "Hello there";
